@@ -1,0 +1,26 @@
+﻿body
+{
+    font-size: 12pt;
+    font-family: Times New Roman;
+}
+code
+{
+    color: Black;
+    font-size: 12pt;
+    font-family: Times New Roman;
+}
+#name
+{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#time
+{
+    font-style: italic;
+}
+
+#description_title
+{
+    font-weight: bold;
+}

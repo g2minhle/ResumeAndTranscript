@@ -1,0 +1,47 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <link rel="stylesheet" type="text/css" href="resume_style.css" />
+</head>
+<body>
+    <script type="text/javascript">
+        xmlhttp = new XMLHttpRequest();
+        xmlhttp.open("GET", "resume.xml", false);
+        xmlhttp.send();
+        xmlDoc = xmlhttp.responseXML;
+        var x = xmlDoc.getElementsByTagName("institution");
+
+        for (i = 0; i < x.length; i++) {
+            document.write("<p>");
+            {
+                document.write('<code id = "name">' + x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue + '</code>  ');
+                document.write('<code id ="time">' + x[i].getElementsByTagName("time")[0].childNodes[0].nodeValue + "</code>");
+            }
+            document.write("</p>");
+
+            document.write("<p>");
+            {
+                document.write('<code id = "description_title">Position: </code>');
+                document.writeln('<code>' + x[i].getElementsByTagName("position")[0].childNodes[0].nodeValue + "</code>");
+            }
+            document.write("</p>");
+
+            document.write("<p>");
+            {
+                document.write('<code id = "description_title">Description: </code>');
+            }
+            document.write("</p>");
+            document.write("<ul>");
+            {
+                des = x[i].getElementsByTagName("description");
+                for (j = 0; j < des.length; j++) {
+                    document.write('<li>' + des[j].childNodes[0].nodeValue + '</li>');
+                }
+            }
+            document.write("</ul>");
+
+        }    
+    </script>
+</body>
+</html>
