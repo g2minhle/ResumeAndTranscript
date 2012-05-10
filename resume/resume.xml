@@ -85,6 +85,15 @@
   </institution>
 
   <institution>
+    <name>High school English debate contest</name>
+    <time>2010</time>
+    <position>Team leader</position>
+    <description>Give speeches and presentations on many topics</description>
+    <description>Got into the semi-final</description>
+    <description>Had to write a creative essay about “The best invention of human” to be qualified for the contest</description>
+  </institution>
+
+  <institution>
     <name>Regional science fair for creative idea</name>
     <time>2010</time>
     <position>Leader of second prize winning team</position>
@@ -92,7 +101,6 @@
     <description>Suggested installing a micro power generator at the end point of high-rise’s sewage systems to recapture the energy used to bring water up</description>
     <description>Gave speeches and presentations to defense the project</description>
   </institution>
-
 
   <institution>
     <name>Regional computer science contest</name>
@@ -109,15 +117,6 @@
     <description>Learned about different aspect of Japanese culture (food, origami, religion, etc.)</description>
     <description>Met official Japan ambassador in Hanoi, capital of Vietnam</description>
     <description>Met Osaka’s Major and government representatives in Osaka’s City Hall, Japan</description>
-  </institution>
-
-  <institution>
-    <name>High school English debate contest</name>
-    <time>2010</time>
-    <position>Team leader</position>
-    <description>Give speeches and presentations on many topics</description>
-    <description>Got into the semi-final</description>
-    <description>Had to write a creative essay about “The best invention of human” to be qualified for the contest</description>
   </institution>
 
   <institution>
