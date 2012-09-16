@@ -2,12 +2,28 @@
 <resume>
 
   <institution>
-    <name>Resume generator</name>
-    <time>2012</time>
-    <position>Computer programmer</position>
-    <description>Used HTML, JavaScript, XML and CSS file to read job description and create a part of this resume</description>
-    <description>Allowed user to change the style, and layout easily</description>
-    <description>Ensured high consistency in style and design</description>
+    <name>The Ontario Institute for Studies in Education, OISE</name>
+    <time>September 2012 - Present</time>
+    <position>Office assistance</position>
+    <description>Photocopy.</description>
+    <description>Delivery mails every morning.</description>
+    <description>Prepare brochures and invitation letters for different events.</description>
+  </institution>
+
+  <institution>
+    <name>Altus Strategy Group</name>
+    <time>May 2012 - September 2012</time>
+    <position>Web developer</position>
+    <description>Analyzed, designed and implemented the user managing system (including the database, the interface, the workflow) using HTML, PHP and JavaScript.</description>    
+    <description>Worked internationally through email with a team member from China. Our only source of communication is email.</description>
+  </institution>
+
+  <institution>
+    <name>Private tutor</name>
+    <time>May 2012 - September 2012</time>
+    <position>Tutor</position>
+    <description>Helped a senior with continuing study in Java and C.</description>
+    <description>Helped acquaintances in university about first year calculus and first year linear algebra.</description>
   </institution>
 
   <institution>
@@ -19,6 +35,15 @@
     <description>Organized social events</description>
   </institution>
 
+  <institution>
+    <name>Resume generator</name>
+    <time>2012</time>
+    <position>Computer programmer</position>
+    <description>Used HTML, JavaScript, XML and CSS file to read job description and create a part of this resume</description>
+    <description>Allowed user to change the style, and layout easily</description>
+    <description>Ensured high consistency in style and design</description>
+  </institution>
+  
   <institution>
     <name>“Research in action show case”, University of Toronto</name>
     <time>27th March 2012</time>
