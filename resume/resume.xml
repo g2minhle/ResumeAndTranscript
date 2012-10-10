@@ -95,14 +95,14 @@
 
   <institution>
     <name>Regional computer science contest for high school student</name>
-    <time>in 2 years 2010 and 2011</time>
+    <time>2010 and 2011</time>
     <position>First prize winner</position>
     <description>Solved computer science problems using dynamic programing, graph algorithms and Pascal as programing language</description>
   </institution>
 
   <institution>
     <name>An Ba Joint Stock Pharmaceutical Company</name>
-    <time>2010</time>
+    <time>June 2010 - September 2010</time>
     <position>Computer programmer</position>
     <description>Created a random number generator using Window form in C# and Visual studio 2008 to assist company’s promotion program</description>
     <description>Analyzed, designed and implemented a sufficient data structure and algorithm for the program</description>
