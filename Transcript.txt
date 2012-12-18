@@ -1,0 +1,23 @@
+Unofficial transcript
+Code           Course name                   Mark
+---------------------------------------------------------
+                   2011-2012
+CSC108H1: Intro to Comp Prog          (97)
+CSC148H1 : Intro to Comp Sci            (97)
+CSC240H1: Enr Intro Theor Comp      (91)
+ECO100Y1: Intro Economics              (93)
+MAT137Y1: Calculus                         (94)
+PSY100H1: Intro Psychology              (85)
+FSL100H1: French for Beginners I      (72)
+MAT223H1: Linear Algebra I              (93)
+------------------------------------------------------------
+                   2012-2013
+CSC207H1:  Software Design            (N/A)
+CSC265H1:  Enr Data Struct Anal       (N/A)
+CSC463H1:  Complex & Comput        (N/A)
+STA247H1:  Prob Comp Appl             (N/A)
+CSC209H1:  Soft Tools & Sys Prog    (N/A)
+CSC258H1:  Computer Organizatn      (N/A)
+CSC324H1:  Prog Languages                (N/A)
+CSC336H1:  Numerical Methods            (N/A)
+CSC343H1:  Intro to Databases             (N/A)
