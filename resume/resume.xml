@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resume>  
     <institution>
+        <name>Bank Of America Merrill Lynch</name>
+        <time>May 2013 - Present</time>
+        <position>Intern - Java developer - Web developer</position>        
+        <description>Developing an internal website using Java, Spring MVC framework, Hibernate, Apache Velocity to analyze databases.</description>
+		<description>Being a member of PME core team.</description>
+    </institution>
+
+    <institution>
         <name>Personal project: Fast sharing website - QRCodeKeeper Android app</name>
         <time>Starting the 3rd of January 2013</time>
         <position>Developer</position>
@@ -11,7 +19,7 @@
 
     <institution>
         <name>SUPO office in Ontario Institute for Studies in Education, OISE</name>
-        <time>September 2012 - Present</time>
+        <time>September 2012 - March 2013</time>
         <position>Office assistance</position>
         <description>Develop small software using PHP, SQL, JavaScript and HTML to assist daily routine in workplace</description>
         <description>Update the list and calendar and check room booking for workshops and events in OISE</description>
