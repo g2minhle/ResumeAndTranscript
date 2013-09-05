@@ -2,7 +2,7 @@
 <resume>  
     <institution>
         <name>Bank Of America Merrill Lynch</name>
-        <time>May 2013 - Present</time>
+        <time>May 2013 - August 2013</time>
         <position>Associate Database Analyst</position>        
 		<description>Developing an internal website using Java, JFS, Spring MVC framework, Hibernate, Apache Velocity, RAD, WAS to analyze databases and services in different environments.</description>
 		<description>Supporting migration from WAS6 to WAS8.5</description>
@@ -18,7 +18,7 @@
 
     <institution>
         <name>SUPO office in Ontario Institute for Studies in Education, OISE</name>
-        <time>September 2012 - March 2013</time>
+        <time>September 2012 - Present</time>
         <position>Office assistance</position>
         <description>Develop small software using PHP, SQL, JavaScript and HTML to assist daily routine in workplace</description>
         <description>Update the list and calendar and check room booking for workshops and events in OISE</description>
