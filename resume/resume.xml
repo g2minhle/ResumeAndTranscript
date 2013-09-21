@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resume>  
+	<institution>
+        <name>University of Toronto - Computer science department</name>
+        <time>September 2013 - Present</time>
+        <position>Teaching Assistant for CSC258: Computer Organization</position>
+        <description>Conducting labs with digital logic circuits on weekly basic.</description>
+		<description>Marking pre-labs and in-lab works.</description>
+    </institution>
+
     <institution>
         <name>Bank Of America Merrill Lynch</name>
         <time>May 2013 - August 2013</time>
