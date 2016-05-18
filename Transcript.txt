@@ -39,7 +39,7 @@ CSC410H1:  Software Test & Verif        (90)           A+
 CSC438H1:  Computabil & Logic           (82)           A-
 CSC488H1:  Compilers & Interpreters     (83)           A-
 -----------------------------------------------------------------
-           School year 2013-2014
+           School year 2015-2016
 CSB201H1:  Mol Bio Biotech & You        (CR)           N/A
 CSC318H1:  Interact Comp Media          (91)           A+
 CSC458H1:  Computer Networks            (96)           A+
