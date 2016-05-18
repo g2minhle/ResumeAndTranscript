@@ -1,7 +1,7 @@
 Unofficial transcript
 Minh Le Hoang
 At University of Toronto, Canada
-CGPA : 3.94
+CGPA : 3.89 / 4.0
 
 Code           Course name              Mark      Letter grade
 -----------------------------------------------------------------
@@ -27,3 +27,28 @@ CSC336H1:  Numerical Methods            (85)           A
 CSC343H1:  Intro to Databases           (97)           A+
 STA248H1:  Stats For Comp Sci           (89)           A
 -----------------------------------------------------------------
+           School year 2013-2014
+CSC301H1:  Intro to Soft Eng            (CR)           N/A
+CSC369H1:  Operating Systems            (85)           A
+CSC372H1:  Microprocessor Sftwr         (85)           A
+CSC373H1:  Algo Design & Analysis       (90)           A+
+CSC411H1:  Machine Learning             (CR)           N/A
+CSC358H1:  Intro Comp Networks          (81)           A-
+CSC384H1:  Intro Artif Intell           (82)           A-
+CSC410H1:  Software Test & Verif        (90)           A+
+CSC438H1:  Computabil & Logic           (82)           A-
+CSC488H1:  Compilers & Interpreters     (83)           A-
+-----------------------------------------------------------------
+           School year 2013-2014
+CSB201H1:  Mol Bio Biotech & You        (CR)           N/A
+CSC318H1:  Interact Comp Media          (91)           A+
+CSC458H1:  Computer Networks            (96)           A+
+ECE568H1:  COMPUTER SECURITY            (75)           B
+PSY280H1:  Sensation & Perception       (CR)           N/A
+CSC309H1:  Prog on the Web              (90)           A+
+CSC427H5:  Computer Security            (85)           A
+CSC469H1:  Oper Sys Design              (82)           A-
+CSC494H1:  Project in CSC               (94)           A+
+           UCOSP. Supervisor: K.Reid
+CSC495H1:  Project in CSC               (92)           A+
+           SDN controller applications. Supervsior: Y. Ganjali
